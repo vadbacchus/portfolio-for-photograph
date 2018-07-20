@@ -1,0 +1,57 @@
+
+.highlighted
+	color: $accent
+
+.nav__link.active 
+	margin: 0 0 0 30px
+
+.indent-top
+	margin: 15px 0 0 0
+.indent-bottom
+	margin: 0 0 15px 0
+
+.slider__item--portfolio
+	display: flex
+	flex-wrap: wrap
+	flex-direction: row
+	justify-content: space-around
+	padding-left: 15px
+	padding-right: 15px
+
+
+
+
+.slider__img
+	width: calc(33.3333% - 30px)
+	margin: 0 0 30px
+	max-width: 303px
+	height: auto
+	cursor: pointer
+	transition: transform .5s
+	position: relative
+	z-index: 1
+	align-self: flex-start
+
+	@media screen and (max-width: 960px)
+		width: calc(58.3333% - 30px)
+
+	@media screen and (max-width: 560px)
+		width: calc(100% - 30px)
+
+	&:hover
+		transform: scale(1.1)
+
+
+
+	
+	img
+		width: 100%
+		height: 100%
+		border-radius: 30px
+		
+
+
+
+
+
+

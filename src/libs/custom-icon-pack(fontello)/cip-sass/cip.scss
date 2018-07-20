@@ -1,0 +1,56 @@
+@import "variables";
+@import "font-face";
+
+
+/* If you want to update your custom icon pack
+
+1. Take config.json and import it into fontello.com service
+2. Download new version of cip
+3. Copy same (but new) code from new cip.css and paste it after "imports", but before that 
+   delete old code.
+4. Copy new fonts and paste'em into 'fonts' folder
+
+ */
+
+ 
+[class^="cip-"]:before, [class*=" cip-"]:before {
+  font-family: "cip";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.cip-cancel:before { content: '\e800'; } /* '' */
+.cip-facebook:before { content: '\f09a'; } /* '' */
+.cip-menu:before { content: '\f0c9'; } /* '' */
+.cip-dribbble:before { content: '\f17d'; } /* '' */
+.cip-twitter:before { content: '\f302'; } /* '' */
+.cip-gplus:before { content: '\f30f'; } /* '' */

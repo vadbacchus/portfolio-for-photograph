@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"custom icon pack (fontello)/"
+			],
+			[
+				"s",
+				"_mixins/"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"j",
+				"justify-content"
+			],
+			[
+				"a",
+				"animate"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"h",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 1428,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)/src"
+	],
+	"file_history":
+	[
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/index.html",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)/src/sass/_vars.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)/src/sass/main.sass",
+		"/C/Users/Bacchus/Desktop/Starting_HTML-Template(Smart Grid)/src/sass/main.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)/src/manifest.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)/src/index.html",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/sass/_vars.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/gulpfile.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/sass/_libs.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)/gulpfile.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)/src/sass/_libs.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/manifest.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/sass/main.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom-icon-pack(fontello)/cip-sass/_variables.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/cip-sass/_variables.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/cip-sass/_font-face.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/font-awesome-4.7.0/scss/_variables.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/cip-sass/cip.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/cip-sass/css/cip.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/css/cip.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/fontello-sass-master/src/_variables.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/fontello-sass-master/src/_font-face.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/fontello-sass-master/cip.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/fontello-sass-master/font-face.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/fontello-sass-master/mixins.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/fontello-sass-master/fontello.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/fontello-sass-master/src/_mixins.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/css/cip-codes.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/css/animation.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/font-awesome-4.7.0/scss/_path.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/libs/custom icon pack (fontello)/css/cip-embedded.css",
+		"/C/Users/Bacchus/AppData/Local/Temp/Rar$DI02.594/config.json",
+		"/C/Users/Bacchus/Desktop/Starting_HTML-Template(Smart Grid)/src/sass/_mixins/_smart-grid.scss",
+		"/C/Users/Bacchus/Desktop/Starting_HTML-Template(Smart Grid)/src/sass/_mixins/_smart-grid.sass",
+		"/C/Users/Bacchus/Desktop/Starting_HTML-Template(Smart Grid)/src/css/main.min.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/css frameworks, libraries/smart-grid-master/system/defaults/settings.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/css frameworks, libraries/smart-grid-master/system/replaces.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template (Bootstrap 4)/src/sass/_media.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)/src/sass/smart-grid.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/css frameworks, libraries/smart-grid-master/system/base.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/css frameworks, libraries/smart-grid-master/system/helpers.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/css frameworks, libraries/smart-grid-master/system/media.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/css frameworks, libraries/smart-grid-master/system/mixin.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/css frameworks, libraries/smart-grid-master/system/shift.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/css frameworks, libraries/smart-grid-master/system/size.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/css frameworks, libraries/smart-grid-master/system/styles.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)/package.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/css frameworks, libraries/smart-grid-master/system/patterns/reset",
+		"/C/Users/Bacchus/AppData/Local/Temp/Rar$DI54.360/config.json",
+		"/C/Users/Bacchus/AppData/Local/Temp/Rar$DI68.000/animation.css",
+		"/C/Users/Bacchus/AppData/Local/Temp/Rar$DI68.406/custom-codes.css",
+		"/C/Users/Bacchus/AppData/Local/Temp/Rar$DI61.360/custom.css",
+		"/C/Users/Bacchus/AppData/Local/Temp/Rar$DI69.406/custom-embedded.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template(Smart Grid)/src/sass/_media.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/sass/_vars.sass",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/gulpfile.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/gulpfile.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/sass/_libs.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/libs/font-awesome-4.7.0/css/font-awesome.css",
+		"/C/Users/Bacchus/Desktop/Starting_HTML-Template/src/index.html",
+		"/C/Users/Bacchus/Desktop/Starting_HTML-Template/src/sass/_vars.sass",
+		"/C/Users/Bacchus/Desktop/Starting_HTML-Template/src/libs/font-awesome-4.7.0/scss/_variables.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/libs/font-awesome-4.7.0/scss/font-awesome.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/index.html",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/app/sass/libs.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/app/libs/font-awesome.min.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/sass/_mixins/_font-face.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/gulpfile.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/sass/_fonts.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/sass/colours.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/sass/_colours.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/sass/main.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/sass/libs.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/sass/_vars.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/sass/_libs.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/sass/main.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/libs/bootstrap/scss/mixins/_grid-framework.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/package.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/libs/bootstrap/scss/_reboot.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/libs/bootstrap/scss/bootstrap-reboot.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/package.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/gulpfile.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/package.json",
+		"/C/Users/Bacchus/Desktop/uzor.group/uzor.group/custom/uzor/css/adaptive.css",
+		"/C/Users/Bacchus/Desktop/uzor.group/uzor.group/custom/uzor/css/start_page.css",
+		"/C/Users/Bacchus/uzor.group/custom/uzor/css/adaptive.css",
+		"/C/Users/Bacchus/uzor.group/portfolio/index.html",
+		"/C/Users/Bacchus/uzor.group/cache/js/ed244c93ba4273b01996358246394359.js",
+		"/C/Users/Bacchus/uzor.group/o-kompanii/index.html",
+		"/C/Users/Bacchus/uzor.group/custom/uzor/css/buttons.css",
+		"/C/Users/Bacchus/uzor.group/custom/uzor/css/footer.css",
+		"/C/Users/Bacchus/uzor.group/index.html",
+		"/C/Users/Bacchus/uzor.group/custom/uzor/css/start_page.css",
+		"/D/test.html",
+		"/C/Users/Bacchus/Desktop/test.html",
+		"/C/Users/Bacchus/uzor.group/js/main.js",
+		"/C/Users/Bacchus/uzor.group/cache/css/e86f8fd56e66b1e3844c959fc99add42.css",
+		"/C/Users/Bacchus/uzor.group/cache/js/ae5e756a0c775d05a45b5de729b968a4.js",
+		"/C/Users/Bacchus/uzor.group/cache/js/26c838e0b54fcd0aa04ba21ef978da93.js",
+		"/C/Users/Bacchus/uzor.group/cache/js/4a8f0b52ea40d0f59936b0e3cf8eaed5.js",
+		"/C/Users/Bacchus/uzor.group/js/timepicker.js",
+		"/C/Users/Bacchus/uzor.group/js/jquery.maskedinput.js",
+		"/C/Users/Bacchus/uzor.group/js/jquery.scrollTo.min.js",
+		"/C/Users/Bacchus/uzor.group/js/jquery.touchSwipe.min.js",
+		"/C/Users/Bacchus/uzor.group/cache/css/e4ab401ab307965897bd0332b62ed3e2.css",
+		"/C/Users/Bacchus/uzor.group/zaschita-i-ochistka-sayta-ot-virusov",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/libs/node_modules/magnific-popup/website/third-party-libs/jquery.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/libs/node_modules/jquery/bower.json",
+		"/C/Users/Bacchus/Desktop/StartHTML-Template/.yarnrc",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/package-lock.json",
+		"/C/Users/Bacchus/Desktop/StartHTML-Template/src/libs/.yarn-integrity",
+		"/C/Users/Bacchus/Desktop/StartHTML-Template/package.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/gulpfile.js",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/sidebar.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/sidebar-posts.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/single.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/post-5.html",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/post-2.html",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/post-1.html",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/template-parts/content-contacts.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/template-parts/content.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/template-parts/content-archive.php",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/app/libs/bootstrap/scss/_grid.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/app/libs/bootstrap/scss/bootstrap-grid.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/app/ht.access",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/app/css/main.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/app/index.html",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/package.json"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 145.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								668,
+								668
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "html",
+							"buffer_scroll_name": "5c445af3",
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "smart_grid-template.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 354.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

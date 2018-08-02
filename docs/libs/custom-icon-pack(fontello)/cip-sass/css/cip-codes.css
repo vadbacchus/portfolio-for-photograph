@@ -1,0 +1,7 @@
+
+.cip-cancel:before { content: '\e800'; } /* '' */
+.cip-facebook:before { content: '\f09a'; } /* '' */
+.cip-menu:before { content: '\f0c9'; } /* '' */
+.cip-dribbble:before { content: '\f17d'; } /* '' */
+.cip-twitter:before { content: '\f302'; } /* '' */
+.cip-gplus:before { content: '\f30f'; } /* '' */
